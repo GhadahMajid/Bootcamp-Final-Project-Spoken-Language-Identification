@@ -1,4 +1,4 @@
-# spoken language identification :speaking_head:
+# Spoken Language Identification :speaking_head:
 
 ## Introduction
 The process of detecting language from an audio clip by an unknown speaker, regardless of gender, manner of speaking, and distinct age speaker, is defined as spoken language identification (SLID). In this project we aim to identify the spoken language by using deep learning models 
