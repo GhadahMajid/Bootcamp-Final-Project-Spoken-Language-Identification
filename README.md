@@ -13,6 +13,10 @@ The dataset consist of short speech segments automatically extracted from YouTub
 - Shahad Alsaif
 
 ## Proposed Algorithm:
-CNN
+MLP (baseline model)
+CNN (enhanced model)
 
 ## Final Result
+MLP Accuracy: 70%
+CNN Accuracy: 93%
+
